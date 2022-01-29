@@ -1,0 +1,51 @@
+ol li {
+    color: wheat;
+}
+mark {
+    color: mediumturquoise;
+}
+h2 {
+    color: teal;
+}
+#section {
+    color: tomato;
+}
+p.text {
+    color: plum;
+}
+p span {
+    color: saddlebrown;
+}
+#section-2 {
+    color: steelblue;
+}
+.text-2.paragraph {
+    color: springgreen;
+}
+#section-3 {
+    color: salmon;
+}
+.text {
+    color: tan;
+}
+.text .block_text {
+    color: slateblue;
+}
+#section-4 {
+    color: turquoise;
+}
+[class*="_block"] {
+    color: purple;
+}
+#section-5 {
+    color: turquoise;
+}
+#section-6 {
+    color: sienna;
+}
+.text-6 {
+    color: orange;
+}
+footer.footer {
+    color: peru;
+}
